@@ -60,7 +60,7 @@ footer {
 }
 
 .imagenes-en-linea img {
-    width: 100px; /* Ajusta el tamaño de las imágenes */
+    width: 500px; /* Ajusta el tamaño de las imágenes */
     height: auto; /* Mantiene la proporción de la imagen */
     border-radius: 5px; /* Bordes redondeados para las imágenes */
 }
