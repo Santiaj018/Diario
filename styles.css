@@ -62,7 +62,7 @@ footer {
 .imagenes-en-linea img {
     width: 500px; /* Ajusta el tamaño de las imágenes */
     height: auto; /* Mantiene la proporción de la imagen */
-    border-radius: 5px; /* Bordes redondeados para las imágenes */
+    border-radius: 10px; /* Bordes redondeados para las imágenes */
 }
 
 .video-container {
@@ -76,3 +76,26 @@ footer {
     height: 315px;
 }
 
+body {
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+section#inicio {
+    text-align: left; /* Alineación a la izquierda */
+    max-width: 800px; /* Ancho máximo del texto */
+    margin: 0 auto; /* Centrar el bloque de texto en la página */
+}
+
+p {
+    text-align: justify; /* Justificar el texto */
+    line-height: 1.6; /* Espaciado entre líneas */
+}
+
+h2 {
+    text-align: center; /* Centrar el encabezado */
+    margin-bottom: 20px;
+}
